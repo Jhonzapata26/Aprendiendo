@@ -2,7 +2,7 @@
 #### *Mi nombre es Jhon Zapata*
 ![](https://github.com/Jhonzapata26/Aprendiendo-python/blob/master/artificial-intelligence.jpg)
 
-*Soy aprendiz en programación y desarrollo, llevo relativamente poco en este mundo actualmente estoy cursando primer semestre de ingenieria de software y espero poder desarrollar grandes habilidades que me permitan destacarme en este campo y asi poder abrir muchas puertas a cosas muy grandes.*
+*Soy aprendiz en programación y desarrollo, llevo relativamente poco en este mundo, actualmente estoy cursando primer semestre de ingenieria de software y espero poder desarrollar grandes habilidades que me permitan destacarme en este campo y asi poder abrir muchas puertas a cosas muy grandes.*
 
 **Habilidades:** *html/css/python/java*
 .*
